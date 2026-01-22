@@ -13,7 +13,7 @@ Software developer passionate about building innovative solutions and contributi
 
 ## 📫 How to reach me
 - GitHub: [@red2n](https://github.com/red2n)
-
+- Linked IN [@ksnavin](https://www.linkedin.com/in/ksnavin/)
 ## 🌱 Currently Learning
 - Cloud Technologies
 - DevOps Practices

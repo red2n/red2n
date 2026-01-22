@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Navin Kumar (red2n)](https://www.navinkumar.net/) 👋
+ 
+## About Me
+Software developer passionate about building innovative solutions and contributing to open-source projects.
+ 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-<!--
-**red2n/red2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
+![red2n's GitHub stats](https://github-readme-stats.vercel.app/api?username=red2n&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- GitHub: [@red2n](https://github.com/red2n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Cloud Technologies
+- DevOps Practices
+ 
+⭐️ From [red2n](https://github.com/red2n)
